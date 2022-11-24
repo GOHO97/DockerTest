@@ -1,8 +1,8 @@
 # Ubuntu(Virtual Box)에서의 Docker file(fast API Server) 빌드 및 이미지 실행
   
-![Resized_1669268249026](https://user-images.githubusercontent.com/101491213/203704838-2f44b863-d472-444c-9986-ec0cb39f65e2.jpg)
+![Resized_1669268249026(1)](https://user-images.githubusercontent.com/101491213/203705256-18c817da-f315-42b2-9f82-836b1b82ef85.jpg)
   
-![Resized_1669268250469](https://user-images.githubusercontent.com/101491213/203704898-646e8277-4f07-490d-908a-cf66e92eb993.jpg)
+![Resized_1669268250469(1)](https://user-images.githubusercontent.com/101491213/203705470-a01e241c-44d8-49c0-9aeb-a32d11573321.jpg)
   
 검색 결과는 google custom search API를 이용하였습니다.  
 최종 결과물은 root 디렉토리로 저장 되며 파일명은 gsrSortByDate.tsv입니다.  
