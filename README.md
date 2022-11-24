@@ -1,7 +1,8 @@
-# Eazel_datahunting_<윤경호> 
+# Ubuntu(Virtual Box)에서의 Docker file(fast API Server) 빌드 및 이미지 실행
   
 검색 결과는 google custom search API를 이용하였습니다.  
-최종 결과물의 파일명은 gsrSortByDate.tsv이며 정렬 방식은 날짜 오름차순입니다.  
+최종 결과물은 root 디렉토리로 저장 되며 파일명은 gsrSortByDate.tsv입니다.  
+정렬 방식은 날짜 오름차순입니다.  
   
 ### 최대 페이지 셋팅  
 전역 변수 setPage에 1 ~ 10 범위의 정수를 할당해주시면 됩니다. 
